@@ -23,6 +23,7 @@ body {
   min-width: 320px;
   min-height: 100vh;
 }
+
 @media only screen and (max-width: 768px)
 {
   :root{

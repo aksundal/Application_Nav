@@ -63,10 +63,3 @@
 .info-liste{
   text-align: start;
 }
-
-@media (prefers-color-scheme: dark) {
-  #header {
-    color: #CCE1FF;
-    background-color: #23262A;
-  }
-}
