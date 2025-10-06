@@ -11,12 +11,18 @@
   display: flex;
   align-items: center;
   justify-content: space-around;
-  background-color:#99C3FF;
+  background-color:#CCE1FF;
   padding: 4rem;
   width: 100vw;
 }
-.subHeader{
-  margin-top: 2rem;
+#contact-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+.sub-header{
+  margin-top: 3rem;
 }
 .link-section{
   display: flex;
@@ -56,4 +62,11 @@
 
 .info-liste{
   text-align: start;
+}
+
+@media (prefers-color-scheme: dark) {
+  #header {
+    color: #CCE1FF;
+    background-color: #23262A;
+  }
 }
