@@ -163,7 +163,7 @@ ein nysgjerrig, samarbeidsorientert og engasjert utviklar som vil bidra til noko
     </main>
     <footer>
       <Heading size="large">Ta Kontakt!</Heading>
-      <p>Dykk når meg på <span><Link href="www.linkedin.com/in/anne-kristin-villar-sundal">Linked In</Link></span> og <Link href="https://github.com/aksundal/">GitHub</Link>.</p>
+      <p>Dykk når meg på <span><Link href="http://linkedin.com/in/anne-kristin-villar-sundal">LinkedIn</Link></span> og <Link href="https://github.com/aksundal/">GitHub</Link>.</p>
     </footer>
     </>
   )
